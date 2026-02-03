@@ -115,7 +115,7 @@ export function Footer() {
 
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} LUXE. All rights reserved.</p>
+          <p>&copy; 2026 Brain<span className="text-[#fac72d]">t</span>isa. All rights reserved.</p>
         </div>
       </div>
     </footer>
